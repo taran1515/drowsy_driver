@@ -1,0 +1,1 @@
+The projects aim at detecting drowsiness of driver while driving.Two important aspects of CV-Facial Landmark Detection and Eye Aspect Ratio helps in determining if the eye was closed. If it was closed for sufficiently enough time an alarm was raised.
